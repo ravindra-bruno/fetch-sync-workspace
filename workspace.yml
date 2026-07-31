@@ -6,9 +6,12 @@ info:
 collections:
   - name: "GitSynced"
     path: "collections/GitSynced"
-    remote: "git@github.com:ravindra-bruno/fetch-sync.git"
   - name: "unsynced"
     path: "collections/unsynced"
+  - name: "unsynced2"
+    path: "collections/unsynced2"
+  - name: "unsynced3"
+    path: "../workspace2508/unsynced3"
 
 specs:
 
