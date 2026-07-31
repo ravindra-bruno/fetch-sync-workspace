@@ -10,8 +10,11 @@ collections:
     path: "collections/unsynced"
   - name: "unsynced2"
     path: "collections/unsynced2"
+    remote: "git@github.com:ravindra-bruno/unsynced2.git"
   - name: "unsynced3"
     path: "../workspace2508/unsynced3"
+  - name: "unsync4"
+    path: "collections/unsync4"
 
 specs:
 

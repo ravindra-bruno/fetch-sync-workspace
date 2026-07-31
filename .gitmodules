@@ -1,0 +1,6 @@
+[submodule "collections/GitSynced"]
+	path = collections/GitSynced
+	url = git@github.com:ravindra-bruno/fetch-sync.git
+[submodule "collection-endpoint1"]
+	path = collection-endpoint1
+	url = git@github.com:ravindra-bruno/collection-endpoint1.git

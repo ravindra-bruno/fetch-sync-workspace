@@ -7,3 +7,6 @@ node_modules
 # OS files
 .DS_Store
 Thumbs.db
+# Bruno managed collection remotes
+collections/unsynced2/
+# End Bruno managed collection remotes
