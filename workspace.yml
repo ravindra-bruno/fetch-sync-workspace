@@ -1,0 +1,15 @@
+opencollection: 1.0.0
+info:
+  name: "FetchBruno"
+  type: workspace
+
+collections:
+  - name: "GitSynced"
+    path: "collections/GitSynced"
+    remote: "git@github.com:ravindra-bruno/fetch-sync.git"
+  - name: "unsynced"
+    path: "collections/unsynced"
+
+specs:
+
+docs: ''

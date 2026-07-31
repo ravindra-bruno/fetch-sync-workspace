@@ -1,0 +1,3 @@
+[submodule "collections/GitSynced"]
+	path = collections/GitSynced
+	url = git@github.com:ravindra-bruno/fetch-sync.git
