@@ -17,6 +17,8 @@ collections:
     path: "collections/unsync4"
   - name: "unsync5"
     path: "collections/unsync5"
+  - name: "collection-endpoint1"
+    path: "collection-endpoint1"
 
 specs:
 
