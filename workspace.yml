@@ -19,6 +19,12 @@ collections:
     path: "collections/unsync5"
   - name: "collection-endpoint1"
     path: "collection-endpoint1"
+  - name: "collection1"
+    path: "../../bruno-workspace/collection1"
+    remote: "git@github.com:ravindra-bruno/randompro.git"
+  - name: "typeface"
+    path: "../../bruno-workspace/typeface/typeface"
+    remote: "git@github.com:ravindra-bruno/randompro.git"
 
 specs:
 
